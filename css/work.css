@@ -152,6 +152,13 @@ img {
   float: right;
 }
 
+.image-vertical {
+  display: block;
+  width: 50%;
+  height: auto;
+  float: left;
+}
+
 .label {
   color: black;
   padding: 7px;
