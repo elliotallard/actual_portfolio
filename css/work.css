@@ -25,6 +25,19 @@
   }
 }*/
 
+@media (max-width: 767px) {
+    .hide {
+        display:none;
+    }
+
+}
+
+@media (min-width: 767px) {
+  .show {
+      display:none;
+    }
+}
+
 
 .work {
   font: 81px "Montserrat", "Avenir";
