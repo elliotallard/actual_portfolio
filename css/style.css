@@ -57,6 +57,20 @@ ol {
   margin: 0;
 }
 
+
+@media (max-width: 767px) {
+    .hide {
+        display:none;
+    }
+
+}
+
+@media (min-width: 767px) {
+  .show {
+      display:none;
+    }
+}
+
 /*------------------------
   Helper css
 --------------------------*/
