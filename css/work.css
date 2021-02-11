@@ -36,6 +36,9 @@
   .show {
       display:none;
     }
+  .col-7 {
+    width: 100%;
+  }
 }
 
 
